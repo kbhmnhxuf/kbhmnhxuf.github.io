@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kbhmnhxuf.github.io/sitemap.xml
